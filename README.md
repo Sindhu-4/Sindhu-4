@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sindhu-4
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning data structure and algorithms...
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m improving Python and SQL skills
 - 📫 How to reach me dasupathisindhuja44@gmail.com
 
 <!---
