@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sindhu-4
-- 👀 I’m learning Java and SQL skills
+- 👀 I’m Full Stack Developer Aspirant
 - 📫 How to reach me dasupathisindhuja44@gmail.com
 
 <!---
