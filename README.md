@@ -6,6 +6,7 @@
 - Tools and Technologies
 
  JAVA, HTML, Css, Javascript, MySQL and Python
+ Visual studio code and Eclipse 
 <!---
 Sindhu-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
